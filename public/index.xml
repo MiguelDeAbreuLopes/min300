@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jan 2025 11:29:19 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cinco Meses O Que Eu Aprendi.</title>
+      <link>http://localhost:1313/posts/cinco-meses-o-que-eu-aprendi/</link>
+      <pubDate>Wed, 29 Jan 2025 11:29:19 -0300</pubDate>
+      <guid>http://localhost:1313/posts/cinco-meses-o-que-eu-aprendi/</guid>
+      <description>&lt;p&gt;Sou leigo no amor, admito, porém, cinco meses em um relacionamento me trouxeram visões interessantes sobre o tal tão dito e não esclarecido: amor.&lt;/p&gt;
+&lt;p&gt;Eu via o amor como uma sentimento por um longo tempo, ledo engano, o amor é uma escolha, um comprometimento com uma pessoa. Se o amor fosse na base dos sentimentos, o meu já teria acabado precocemente. A união entre casal deve ser uma escolha diária de compromisso, e é lindo isso. Foi aproximadamente entre o mês 4 e o 5 que eu senti isso, a escolha foi algo que foi sendo mais evidenciado e mostrando seu poder, a relação, então moderada em questão de escolha e sentimentos, estava cada vez mais tendente à uma comunhão de escolhas, até chegar nos dias atuais, onde a moderação é nas escolhas, os sentimentos são consequências e não causas para mudanças ou quaisquer tipos de influências em nosso relacionamento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Primeiro post.</title>
+      <link>http://localhost:1313/posts/primeiro-post/</link>
+      <pubDate>Fri, 24 Jan 2025 11:29:19 -0300</pubDate>
+      <guid>http://localhost:1313/posts/primeiro-post/</guid>
+      <description>&lt;p&gt;Aqui começo meu blog. Vou destrinchar assuntos de forma mínima.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
